@@ -24,13 +24,19 @@ This project is made using [`nullpointer`](https://pyshorteners.readthedocs.io/e
 
 ## How it works 
 
-- Open the [Demo](https://url-sharpener.herokuapp.com/)
+- **Open the [Demo](https://url-sharpener.herokuapp.com/)**
 
-- Copy and Paste the url link in the search tab and press `Submit`.
+![Main-Page](https://github.com/MayankShrivastava17/url-shortner/blob/main/example/open.png)
 
-- Shorten form is url is there to copy and share.
+- **Copy and Paste the url link in the search tab and press `Submit`.**
 
-## How to use
+![IRIS SENTOSA](https://github.com/MayankShrivastava17/url-shortner/blob/main/example/url-enter.png)
+
+- **Shorten form is url is there to copy and share.**
+
+![IRIS SENTOSA](https://github.com/MayankShrivastava17/url-shortner/blob/main/example/final.png)
+
+## How to use in localhost
 
 - Clone the project and run :
 
